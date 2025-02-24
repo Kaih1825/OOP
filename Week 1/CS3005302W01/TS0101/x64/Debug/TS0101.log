@@ -1,0 +1,3 @@
+﻿  ComputeSQRT.cpp
+LINK : warning LNK4079: no write permission for incremental status file 'x64\Debug\TS0101.ilk'; linking nonincrementally
+  TS0101.vcxproj -> \\Mac\Home\Desktop\HRYU\CS3005302W01\x64\Debug\TS0101.exe

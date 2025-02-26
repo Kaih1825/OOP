@@ -1,0 +1,5 @@
+﻿  PrintStandardFormat.cpp
+C:\Users\Kai\Desktop\OOP\Week 2\CS1010302W02\TS0204\PrintStandardFormat.cpp(43,34): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\Kai\Desktop\OOP\Week 2\CS1010302W02\TS0204\PrintStandardFormat.cpp(71,21): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Kai\Desktop\OOP\Week 2\CS1010302W02\TS0204\PrintStandardFormat.cpp(72,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  TS0204.vcxproj -> C:\Users\Kai\Desktop\OOP\Week 2\CS1010302W02\x64\Debug\TS0204.exe

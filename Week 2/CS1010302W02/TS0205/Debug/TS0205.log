@@ -1,0 +1,4 @@
+﻿  AddingLargeNumbers.cpp
+C:\Users\kai\Desktop\OOP\Week 2\CS1010302W02\TS0205\AddingLargeNumbers.cpp(56,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\kai\Desktop\OOP\Week 2\CS1010302W02\TS0205\AddingLargeNumbers.cpp(66,21): warning C4018: '<': signed/unsigned 不相符
+  TS0205.vcxproj -> C:\Users\kai\Desktop\OOP\Week 2\CS1010302W02\Debug\TS0205.exe

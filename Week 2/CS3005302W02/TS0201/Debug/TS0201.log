@@ -1,0 +1,5 @@
+﻿  ComputeStandardDeviation.cpp
+C:\Users\kai\Desktop\OOP\Week 2\CS3005302W02\TS0201\ComputeStandardDeviation.cpp(25,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\kai\Desktop\OOP\Week 2\CS3005302W02\TS0201\ComputeStandardDeviation.cpp(33,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\kai\Desktop\OOP\Week 2\CS3005302W02\TS0201\ComputeStandardDeviation.cpp(38): warning C4172: 傳回區域變數或暫存的位址: result
+  TS0201.vcxproj -> C:\Users\kai\Desktop\OOP\Week 2\CS3005302W02\Debug\TS0201.exe

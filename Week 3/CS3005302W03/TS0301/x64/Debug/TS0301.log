@@ -1,0 +1,3 @@
+﻿  OccurrencCounting.cpp
+C:\Users\kai\Desktop\OOP\Week 3\CS3005302W03\TS0301\OccurrencCounting.cpp(8,10): warning C4477: 'printf' : 格式字串 '%s' 需要 'char *' 類型的引數，但 variadic 引數 1 的類型為 'std::string'
+  TS0301.vcxproj -> C:\Users\kai\Desktop\OOP\Week 3\CS3005302W03\x64\Debug\TS0301.exe

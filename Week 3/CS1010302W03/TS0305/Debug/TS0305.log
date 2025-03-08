@@ -1,0 +1,10 @@
+﻿  SimpleDrawingProgram.cpp
+C:\Users\kai\Desktop\OOP\Week 3\CS1010302W03\TS0305\SimpleDrawingProgram.cpp(22,53): warning C4018: '>': signed/unsigned 不相符
+C:\Users\kai\Desktop\OOP\Week 3\CS1010302W03\TS0305\SimpleDrawingProgram.cpp(22,84): warning C4018: '>': signed/unsigned 不相符
+C:\Users\kai\Desktop\OOP\Week 3\CS1010302W03\TS0305\SimpleDrawingProgram.cpp(35,66): warning C4018: '>=': signed/unsigned 不相符
+C:\Users\kai\Desktop\OOP\Week 3\CS1010302W03\TS0305\SimpleDrawingProgram.cpp(35,91): warning C4018: '>=': signed/unsigned 不相符
+C:\Users\kai\Desktop\OOP\Week 3\CS1010302W03\TS0305\SimpleDrawingProgram.cpp(68,13): warning C4018: '>': signed/unsigned 不相符
+C:\Users\kai\Desktop\OOP\Week 3\CS1010302W03\TS0305\SimpleDrawingProgram.cpp(79,13): warning C4018: '>': signed/unsigned 不相符
+C:\Users\kai\Desktop\OOP\Week 3\CS1010302W03\TS0305\SimpleDrawingProgram.cpp(79,40): warning C4018: '>': signed/unsigned 不相符
+C:\Users\kai\Desktop\OOP\Week 3\CS1010302W03\TS0305\SimpleDrawingProgram.cpp(101,30): warning C4018: '>': signed/unsigned 不相符
+  TS0305.vcxproj -> C:\Users\kai\Desktop\OOP\Week 3\CS1010302W03\Debug\TS0305.exe

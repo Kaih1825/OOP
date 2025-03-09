@@ -1,3 +1,10 @@
+/*****************************************************************//**
+ * \file   InputOutput.cpp
+ * \brief  Format the output according to the input.
+ *
+ * \author kai
+ * \date   2025/3/8
+ *********************************************************************/
 #include <iostream>
 using namespace std;
 

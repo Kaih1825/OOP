@@ -1,3 +1,10 @@
+/*****************************************************************//**
+ * \file   CPUBitGrowth.cpp
+ * \brief  Give the year, find the maximum positive integer N where N! is within the CPU calculation range of the current year.
+ *
+ * \author kai
+ * \date   2025/3/8
+ *********************************************************************/
 #include <iostream> // Use in cout
 #include <cmath> // Use in log2
 using namespace std;

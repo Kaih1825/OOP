@@ -8,3 +8,5 @@
    setW 設定後面一個變數的寬度\
    fixed 關閉科學符號\
    setprecision 設定小數點位數(%.*f)
+## Week 4:
+1. printf("%g",abc); 自動省略小數點的0\

@@ -9,7 +9,7 @@
 #include <iostream>
 #include <string>
 
- //  Static member variable to keep track of total hot dogs sold by all stands
+ // Static member variable to keep track of total hot dogs sold by all stands
 int HotDogStand::totalSellAmount = 0;
 
 /**

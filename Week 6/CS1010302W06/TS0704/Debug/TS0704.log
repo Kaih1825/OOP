@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\kai\Desktop\OOP\Week 6\CS1010302W06\TS0704\main.cpp(25,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\kai\Desktop\OOP\Week 6\CS1010302W06\TS0704\main.cpp(26,22): warning C4018: '<': signed/unsigned 不相符
+  TS0704.vcxproj -> C:\Users\kai\Desktop\OOP\Week 6\CS1010302W06\Debug\TS0704.exe

@@ -17,7 +17,7 @@ int main() {
 		}
 		printf("N\tcount\n");
 		for (auto i = count.rbegin(); i != count.rend(); i++) {
-			printf("%d\t%d\n", (*i).first, (*i).second);
+			printf("%d\t%d\n", i->first, i->second);
 		}
 	}
 }

@@ -1,4 +1,9 @@
-#pragma once
+#ifndef _H_MONTH_
+#define _H_MONTH_
+#include <iostream>
+
+using namespace std;
+
 class Month
 {
 public:
@@ -16,3 +21,4 @@ private:
 	int month;
 };
 
+#endif // !_H_MONTH_

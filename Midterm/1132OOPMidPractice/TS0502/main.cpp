@@ -5,7 +5,7 @@ using namespace std;
 
 int main(void)
 {
-	Month month1, month2(2), month3('M','a','r'), month4, month5, month6;
+	Month month1, month2(2), month3('M', 'a', 'r'), month4, month5, month6;
 	month4 = month3.nextMonth();
 	month5.inputInt();
 	month6.inputStr();

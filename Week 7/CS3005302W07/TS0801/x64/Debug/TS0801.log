@@ -1,0 +1,14 @@
+﻿  Polynomial.cpp
+C:\Users\kai\Desktop\OOP\Week 7\CS3005302W07\TS0801\Polynomial.cpp(25,21): warning C4267: 'return': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\kai\Desktop\OOP\Week 7\CS3005302W07\TS0801\Polynomial.cpp(56,2): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\kai\Desktop\OOP\Week 7\CS3005302W07\TS0801\Polynomial.cpp(56,31): warning C4018: '<': signed/unsigned 不相符
+C:\Users\kai\Desktop\OOP\Week 7\CS3005302W07\TS0801\Polynomial.cpp(68,2): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\kai\Desktop\OOP\Week 7\CS3005302W07\TS0801\Polynomial.cpp(72,2): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\kai\Desktop\OOP\Week 7\CS3005302W07\TS0801\Polynomial.cpp(81,48): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\kai\Desktop\OOP\Week 7\CS3005302W07\TS0801\Polynomial.cpp(88,2): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\kai\Desktop\OOP\Week 7\CS3005302W07\TS0801\Polynomial.cpp(92,2): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\kai\Desktop\OOP\Week 7\CS3005302W07\TS0801\Polynomial.cpp(101,48): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\kai\Desktop\OOP\Week 7\CS3005302W07\TS0801\Polynomial.cpp(112,48): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+  main.cpp
+  正在產生程式碼...
+  TS0801.vcxproj -> C:\Users\kai\Desktop\OOP\Week 7\CS3005302W07\x64\Debug\TS0801.exe

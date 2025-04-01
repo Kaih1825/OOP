@@ -59,7 +59,10 @@ Polynomial operator-(double lhs, const Polynomial& rhs)
 		result.param.push_back(lhs);
 	}
 	else {
-		result.param[0] -= lhs;
+		result.param[0] = lhs - rhs.param[0];
+	}
+	for (int i = 1; i < result.param.size(); i++) {
+		result.param[i] *= -1;
 	}
 	return result;
 }

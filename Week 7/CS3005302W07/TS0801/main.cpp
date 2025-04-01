@@ -10,7 +10,7 @@ int main()
 	double one[] = { 1 };
 	Polynomial One(one, 1);
 	double quad[] = { 3, 2, 1 };
-	double cubic[] = { -1, 2, 0, -3 };
+	double cubic[] = { 1, 2, 0, 3 };
 	Polynomial q(quad, 3); // q is 3 + 2*x + x*x
 	Polynomial c(cubic, 4);// c is 1 + 2*x + 0*x*x + 3*x*x*x
 	Polynomial p = q;  // test copy constructor
@@ -35,6 +35,9 @@ int main()
 	cout << "value of (q + c)(2) is " << evaluate(r, 2) << endl;
 
 	r = q - c;
+	for (int i = 0; i < r.mySize(); i++) {
+		cout << r[i] << endl;
+	}
 	cout << "value of (q - c)(2) is " << evaluate(r, 2) << endl;
 
 	r = q * c;

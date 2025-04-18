@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\kai\Desktop\OOP\Week 9\CS3005302W09\TS0903\main.cpp(14,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\kai\Desktop\OOP\Week 9\CS3005302W09\TS0903\main.cpp(65,22): warning C4018: '<': signed/unsigned 不相符
+  TS0903.vcxproj -> C:\Users\kai\Desktop\OOP\Week 9\CS3005302W09\Debug\TS0903.exe

@@ -5,7 +5,7 @@
 
 int main(void)
 {
-	int *arrayPtr = new int[ELEMENTS_FOR_COMBINATION];
+	int* arrayPtr = new int[ELEMENTS_FOR_COMBINATION];
 
 	//Get all elements for combination
 	for (int i = 0; i < ELEMENTS_FOR_COMBINATION; ++i)

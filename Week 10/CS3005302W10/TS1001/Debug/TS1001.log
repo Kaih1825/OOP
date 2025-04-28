@@ -1,0 +1,11 @@
+﻿  PrintCombination.cpp
+C:\Users\kai\Desktop\OOP\Week 10\CS3005302W10\TS1001\PrintCombination.h(13,1): warning C4005: 'NULL': 巨集重複定義
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vcruntime.h(233): message : 請參閱 'NULL' 之前的定義
+C:\Users\kai\Desktop\OOP\Week 10\CS3005302W10\TS1001\PrintCombination.cpp(34,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\kai\Desktop\OOP\Week 10\CS3005302W10\TS1001\PrintCombination.cpp(60,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\kai\Desktop\OOP\Week 10\CS3005302W10\TS1001\PrintCombination.cpp(62,10): warning C4018: '<': signed/unsigned 不相符
+  main.cpp
+C:\Users\kai\Desktop\OOP\Week 10\CS3005302W10\TS1001\PrintCombination.h(13,1): warning C4005: 'NULL': 巨集重複定義
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vcruntime.h(233): message : 請參閱 'NULL' 之前的定義
+  正在產生程式碼...
+  TS1001.vcxproj -> C:\Users\kai\Desktop\OOP\Week 10\CS3005302W10\Debug\TS1001.exe

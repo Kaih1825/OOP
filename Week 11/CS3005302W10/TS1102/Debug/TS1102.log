@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\kai\Desktop\OOP\Week 11\CS3005302W10\TS1102\Main.cpp(59,15): warning C4834: 正在捨棄具有 'nodiscard' 屬性之函式的傳回值
+C:\Users\kai\Desktop\OOP\Week 11\CS3005302W10\TS1102\Main.cpp(68,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\kai\Desktop\OOP\Week 11\CS3005302W10\TS1102\Main.cpp(69,21): warning C4018: '<': signed/unsigned 不相符
+  TS1102.vcxproj -> C:\Users\kai\Desktop\OOP\Week 11\CS3005302W10\Debug\TS1102.exe

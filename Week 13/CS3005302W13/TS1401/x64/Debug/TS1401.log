@@ -1,0 +1,5 @@
+﻿  Account.cpp
+  Account.h
+  正在產生程式碼...
+x64\Debug\Account.obj : warning LNK4042: 指定物件超過一次，已忽略多餘的部分
+  TS1401.vcxproj -> C:\Users\Kai\Desktop\OOP\Week 13\CS3005302W13\x64\Debug\TS1401.exe

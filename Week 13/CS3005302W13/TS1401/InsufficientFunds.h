@@ -12,7 +12,4 @@ class InsufficientFunds
 {
 public:
 	InsufficientFunds() = default;
-
-private:
-
 };

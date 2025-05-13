@@ -12,7 +12,4 @@ class NegativeDeposit
 {
 public:
 	NegativeDeposit() = default;
-
-private:
-
 };

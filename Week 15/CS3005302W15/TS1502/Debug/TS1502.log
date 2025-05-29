@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\kai\Desktop\OOP\Week 15\CS3005302W15\TS1502\Source.cpp(32,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\kai\Desktop\OOP\Week 15\CS3005302W15\TS1502\Source.cpp(34,9): warning C4018: '<': signed/unsigned 不相符
+C:\Users\kai\Desktop\OOP\Week 15\CS3005302W15\TS1502\Source.cpp(137,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\kai\Desktop\OOP\Week 15\CS3005302W15\TS1502\Source.cpp(139,24): warning C4018: '<': signed/unsigned 不相符
+  TS1502.vcxproj -> C:\Users\kai\Desktop\OOP\Week 15\CS3005302W15\Debug\TS1502.exe

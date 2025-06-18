@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\kai\Desktop\OOP\Final\1132OOPFinalPractice\TS0803\Source.cpp(27,30): warning C4018: '>=': signed/unsigned 不相符
+C:\Users\kai\Desktop\OOP\Final\1132OOPFinalPractice\TS0803\Source.cpp(30,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\kai\Desktop\OOP\Final\1132OOPFinalPractice\TS0803\Source.cpp(56,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\kai\Desktop\OOP\Final\1132OOPFinalPractice\TS0803\Source.cpp(58,16): warning C4018: '>=': signed/unsigned 不相符
+C:\Users\kai\Desktop\OOP\Final\1132OOPFinalPractice\TS0803\Source.cpp(66,12): warning C4018: '>=': signed/unsigned 不相符
+  TS0803.vcxproj -> C:\Users\kai\Desktop\OOP\Final\1132OOPFinalPractice\Debug\TS0803.exe

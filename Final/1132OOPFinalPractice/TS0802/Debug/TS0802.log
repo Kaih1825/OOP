@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\kai\Desktop\OOP\Final\1132OOPFinalPractice\TS0802\Source.cpp(34,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\kai\Desktop\OOP\Final\1132OOPFinalPractice\TS0802\Source.cpp(35,21): warning C4018: '<': signed/unsigned 不相符
+  TS0802.vcxproj -> C:\Users\kai\Desktop\OOP\Final\1132OOPFinalPractice\Debug\TS0802.exe
